@@ -24,6 +24,13 @@ Me chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvi
   <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<!-- Seção de contador de visitantes -->
+<div align="center">
+  <br>
+  <p align="center" style="color:#DA4FA4"><b>Visitors Count</b></p>
+  <p align="center" style="color:#DA4FA4"><img align="center" src="https:https://github.com/SamiraCas/count.svg" /></p>
+  <br> 
+</div>
   
   ### 📫 Como chegar até mim?
 <div> 
