@@ -28,7 +28,7 @@ Me chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvi
 <div align="center">
   <br>
   <p align="center" style="color:#DA4FA4"><b>Visitors Count</b></p>
-  <p align="center" style="color:#DA4FA4"><img align="center" src="https:https://github.com/SamiraCas/count.svg" /></p>
+  <p align="center" style="color:#DA4FA4"><img align="center" src="https:https://github.com/SamiraCas" /></p>
   <br> 
 </div>
   
