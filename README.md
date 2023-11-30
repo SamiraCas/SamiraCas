@@ -1,5 +1,5 @@
 #  Olá a todos!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="350px" width="350px" align="right" alt="Computer Samira Castro">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computer Samira Castro">
 <br>
 <br>
 
@@ -9,12 +9,8 @@
 </ul>
 <br>
 <br>
- <div>
-  <p>
-  <a href="https://samiracas.github.io" target='_blank'>
-    <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white" >
-  </a>
-</p>
+<br>
+
 </div>
 <h2>💻 Sobre mim :</h2>  
 <p>Tenho buscado constantemente me aprimorar através de uma variedade de cursos relacionados ao Front-end, abrangendo UI/UX design, React, TypeScript e Angular, com o objetivo de aprofundar ainda mais o meu conhecimento. Além disso, possuo base em SQL, Excel e B2B. <br> Pois estou sempre em busca de aprimorar minhas habilidades e acompanhar as novas tecnologias.</p>
@@ -22,7 +18,14 @@
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div> 
+<br>
+<div>
+  <p>
+  <a href="https://samiracas.github.io" target='_blank'>
+    <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white" >
+  </a>
+</p>
 
 
  <h2>📚 Frameworks</h2> 
