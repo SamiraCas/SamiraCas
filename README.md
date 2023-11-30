@@ -4,9 +4,10 @@
 <br>
 
 <p>Sou Desenvolvedora Front End & UX/UI Designer </p>
-
-
-<p>E chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com previsão de formatura em 2024. Estou dedicando todo o meu empenho à área de Front-end e sou realmente apaixonada por isso. </p>
+<br>
+<br>
+<br>
+<p>Me chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com previsão de formatura em 2024. Estou dedicando todo o meu empenho à área de Front-end e sou realmente apaixonada por isso. </p>
 <br>
 <br>
 <br>
