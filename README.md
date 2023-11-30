@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h2>📊 Estatistica</h2> 
-  <div style="display: inline_block"">
+  <div align="center">
   <a href="https://github.com/SamiraCas">
   <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
