@@ -1,5 +1,5 @@
 #  Olá a todos!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer Samira Castro">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="350px" width="350px" align="right" alt="Computer Samira Castro">
 <br>
 <br>
 
