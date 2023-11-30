@@ -1,8 +1,12 @@
 #  Olá a todos!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Samira Castro">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computer Samira Castro">
 <br>
 <br>
-<p>Me chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com previsão de formatura em 2024. Estou dedicando todo o meu empenho à área de Front-end e sou realmente apaixonada por isso. </p>
+
+<p>Sou Desenvolvedora Front End & UX/UI Designer </p>
+
+
+<p>E chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com previsão de formatura em 2024. Estou dedicando todo o meu empenho à área de Front-end e sou realmente apaixonada por isso. </p>
 <br>
 <br>
 <br>
