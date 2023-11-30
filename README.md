@@ -1,11 +1,12 @@
 #  Olá a todos!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Samira Castro">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer Samira Castro">
 <br>
 <br>
 
-<p>Sou Desenvolvedora Front End & UX/UI Designer </p>
-<p>Me chamo Samira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com previsão de formatura em 2024. Estou dedicando todo o meu empenho à área de Front-end e sou realmente apaixonada por isso. </p>
-<br>
+<ul>
+ <li>Dev Front-end & UI/UX Designer</li>
+ <li>Curso Analise e Desenvolvimento de Sistema</li>
+</ul>
 <br>
 <br>
  <div>
@@ -15,14 +16,13 @@
   </a>
 </p>
 </div>
-<h2>💻 Experiências :</h2>  
+<h2>💻 Sobre mim :</h2>  
+<p>Tenho buscado constantemente me aprimorar através de uma variedade de cursos relacionados ao Front-end, abrangendo UI/UX design, React, TypeScript e Angular, com o objetivo de aprofundar ainda mais o meu conhecimento. Além disso, possuo base em SQL, Excel e B2B. <br> Pois estou sempre em busca de aprimorar minhas habilidades e acompanhar as novas tecnologias.</p>
  <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<br>
-<p>Tenho buscado constantemente me aprimorar através de uma variedade de cursos relacionados ao Front-end, abrangendo UI/UX design, React, TypeScript e Angular, com o objetivo de aprofundar ainda mais o meu conhecimento. Além disso, possuo sólida base em SQL, Excel e B2B. Estou sempre em busca de aprimorar minhas habilidades e acompanhar as novas tecnologias.</p>
 
 
  <h2>📚 Frameworks</h2> 
