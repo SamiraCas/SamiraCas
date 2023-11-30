@@ -39,7 +39,7 @@
   <div style="display: inline_block"">
   <a href="https://github.com/SamiraCas">
   <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <h2> 📫 Como chegar até mim? </h2>
