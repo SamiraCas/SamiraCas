@@ -16,7 +16,7 @@
 
 </div>
 <h2>💻 Sobre mim :</h2>  
-<p>Tenho buscado constantemente me aprimorar através de uma variedade de cursos relacionados ao Front-end, abrangendo UI/UX design, React, TypeScript e Angular, com o objetivo de aprofundar ainda mais o meu conhecimento. Além disso, possuo base em SQL, Excel e B2B. <br> Pois estou sempre em busca de aprimorar minhas habilidades e acompanhar as novas tecnologias.</p>
+<p>Busco constantemente me aprimorar através de uma variedade de cursos relacionados ao Front-end, abrangendo UI/UX design, React, TypeScript e Angular, com o objetivo de aprofundar ainda mais o meu conhecimento. Além disso, possuo base em SQL, Excel e B2B. <br> Pois estou sempre em busca de aprimorar minhas habilidades e acompanhar as novas tecnologias.</p>
  <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
