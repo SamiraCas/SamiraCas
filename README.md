@@ -1,5 +1,5 @@
 <h1 align="center">Olá a todos!</h1>  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="400px" width="400px" align="right"  alt="Computer Samira Castro">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="300px" width="350px" align="right"  alt="Computer Samira Castro">
 <br>
 <br>
 <br>
