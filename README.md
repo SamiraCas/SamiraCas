@@ -11,6 +11,7 @@
 <ul>
  <li>Dev Front-end & UI/UX Designer</li>
  <li>Curso Analise e Desenvolvimento de Sistema</li>
+ <li>19 anos</li>
 </ul>
 
 
