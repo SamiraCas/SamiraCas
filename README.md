@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Samira+Castro+👩🏻‍💻;I'm+a+Dev+Front-end+and+UI/UX+Designer+!;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Samira+Castro+👩🏻‍💻;I'm+Dev+Front-end+and+UI/UX+Designer+!;Welcome!+:%29)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="300px" width="350px" align="right"  alt="Computer Samira Castro">
 <br>
