@@ -1,4 +1,5 @@
-<h1 align="center">Olá a todos!</h1>  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Samira+Castro+👩🏻‍💻;I'm+a+Dev+Front-end+and+UI/UX+Designer+!;Welcome!+:%29)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="300px" width="350px" align="right"  alt="Computer Samira Castro">
 <br>
 <br>
@@ -44,6 +45,8 @@
   <a href="https://github.com/SamiraCas">
   <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
+ <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCas&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph">|
+ 
 </div>
   
   <h2> 📫 Como chegar até mim? </h2>
