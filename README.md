@@ -48,15 +48,14 @@
 <h2>📊 Estatistica</h2> 
   <div align="center">
   <a href="https://github.com/SamiraCas">
-  <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=SamiraCas&theme=radical&mode=weekly&hide_border=true"/>
- <img height="132em" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCas&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph">|
+  <img height="250em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!--   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=SamiraCas&theme=radical&mode=weekly&hide_border=true"/>
+ <img height="132em" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCas&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph"> -->
+ <img height="250em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,,c#,javascript,css&layout=compact&langs_count=7&theme=dracula"/>|
 </div>
   
   <h2> 📫 Como chegar até mim? </h2>
   <a href="https://www.instagram.com/samira__castro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samiracastrosjn23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samira-castro-789572231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://github.com/SamiraCas" target="_blank"><img src="https://img.shields.io/github/followers/SamiraCas?label=follow&style=social" target="_blank"></a> 
 </div>
