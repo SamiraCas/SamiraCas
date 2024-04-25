@@ -48,10 +48,10 @@
 <h2>📊 Estatistica</h2> 
   <div align="center">
   <a href="https://github.com/SamiraCas">
-  <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="300em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=SamiraCas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <!--   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=SamiraCas&theme=radical&mode=weekly&hide_border=true"/>
  <img height="132em" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCas&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph"> -->
- <img height="140em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,,c#,javascript,css&layout=compact&langs_count=7&theme=dracula"/>|
+ <img height="250em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=SamiraCas&html,,c#,javascript,css&layout=compact&langs_count=7&theme=dracula"/>|
 </div>
   
   <h2> 📫 Como chegar até mim? </h2>
