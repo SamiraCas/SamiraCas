@@ -8,21 +8,24 @@
 
 # 👩🏻‍💻 Samira Castro
 
-### Front-end Developer · UI/UX Designer
+### Full Stack Developer · Front-end · UI/UX
 
-Building **responsive, accessible and user-focused interfaces** with modern web technologies.
+Building **scalable, responsive and user-focused web applications** from interface to backend.
 
 <br>
 
 <a href="https://github.com/SamiraCas">
   <img src="https://img.shields.io/github/followers/SamiraCas?label=Followers&style=flat&color=8F0D87" />
 </a>
+
 <a href="https://github.com/SamiraCas">
   <img src="https://img.shields.io/github/stars/SamiraCas?label=Stars&style=flat&color=8F0D87" />
 </a>
+
 <a href="https://samiracas.github.io">
   <img src="https://img.shields.io/badge/Portfolio-8F0D87?style=flat&logo=googlechrome&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/samira-castro-789572231/">
   <img src="https://img.shields.io/badge/LinkedIn-8F0D87?style=flat&logo=linkedin&logoColor=white" />
 </a>
@@ -33,139 +36,79 @@ Building **responsive, accessible and user-focused interfaces** with modern web 
 
 ## 👋 About me
 
-I'm a **Front-end Developer and UI/UX Designer** focused on creating digital experiences that combine clean code, usability and visual consistency.
+I'm a **Full Stack Developer** focused on building modern web applications, combining **front-end development, backend logic, APIs, databases and user experience**.
 
-I work across the entire interface development process — from **UI/UX and prototyping in Figma** to implementation, responsiveness, performance and deployment.
+My background started in Front-end and UI/UX, which gave me a strong foundation in interface architecture, responsive design and usability. Over time, I expanded my development skills into **backend development, API integration, databases and server-side technologies**.
 
-I also have experience developing and maintaining websites using **WordPress and custom code**, working with APIs, content management systems and third-party integrations.
+I enjoy working across the complete development cycle — from **planning and interface design to implementation, API integration, database operations, testing and deployment**.
 
-Currently, I'm focused on continuously improving my knowledge of **React, Next.js, TypeScript and modern front-end architecture**.
-
----
-
-## 🧩 What I do
-
-- ⚡ Front-end development
-- 🎨 UI/UX design and prototyping
-- 📱 Responsive & mobile-first interfaces
-- 🧱 Component-based development
-- 🔌 API integration
-- 🌐 WordPress development
-- 🚀 Website deployment and maintenance
-- 🔧 Code organization and refactoring
-- 🗄️ SQL and data-related tasks
-- 🔀 Git & GitHub workflows
+I'm currently deepening my knowledge of **React, Next.js, TypeScript, Node.js, C#, SQL and modern software architecture**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I work with
 
 ### Front-end
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,angular" />
-</p>
+- React
+- Next.js
+- Vue.js
+- Angular
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Sass
+- Bootstrap
+- Tailwind CSS
+- Styled Components
 
-### Styling & UI
+### Back-end
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,styledcomponents,figma" />
-</p>
+- Node.js
+- C#
+- PHP
+- REST APIs
+- API Routes
+- Authentication flows
+- Server-side logic
 
-### Back-end & Database
+### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,cs,mysql" />
-</p>
+- SQL
+- MySQL
+- Relational database concepts
+- Data manipulation and queries
+
+### UI/UX
+
+- Figma
+- Wireframing
+- Prototyping
+- Design Systems
+- Responsive Design
+- User-centered interfaces
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress" />
-</p>
+- Git
+- GitHub
+- VS Code
+- Vite
+- NPM
+- Vercel
+- WordPress
+- Azure
+- Excel
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Development Skills
 
-### 🌐 Tropa Digital — Front-end Challenge
-
-Modern dashboard interface developed with **Next.js, TypeScript and Styled Components**, including authentication flow, API route simulation and responsive layouts.
-
-**Stack:** Next.js · TypeScript · Styled Components · React · API Routes
-
----
-
-### 🍷 AndWines — E-commerce
-
-Custom e-commerce experience focused on wine presentation, product navigation, responsive layouts and user experience.
-
-**Stack:** WordPress · PHP · JavaScript · CSS · Custom Development
-
----
-
-### 🩺 Medical Website Projects
-
-Development of professional websites focused on **healthcare, accessibility, responsive design and content organization**, combining custom interfaces with WordPress solutions.
-
-**Focus:** UI/UX · WordPress · Responsive Design · SEO · Custom Code
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamiraCas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=8F0D87&icon_color=8F0D87&text_color=666666"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraCas&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=8F0D87&text_color=666666"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCas&bg_color=ffffff&color=8F0D87&line=8F0D87&point=8F0D87&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🎨 Design & Development Philosophy
-
-> **Good interfaces are not only beautiful — they are intuitive, accessible and built to solve real problems.**
-
-I believe good front-end development is the intersection of **design, engineering and user experience**.
-
----
-
-## 🤝 Let's connect
-
-I'm open to opportunities involving **Front-end Development, UI/UX, WordPress and Web Development**.
-
-<div align="center">
-
-<a href="https://samiracas.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-8F0D87?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samira-castro-789572231/">
-  <img src="https://img.shields.io/badge/LinkedIn-8F0D87?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/samira__castro/">
-  <img src="https://img.shields.io/badge/Instagram-8F0D87?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Thanks for visiting my profile! 🚀**
-
-</div>
+```text
+Frontend        ████████████████████░░  React · Next.js · Vue · Angular
+Backend         ████████████████░░░░░░  Node.js · C# · PHP · REST APIs
+Databases       ███████████████░░░░░░░  SQL · MySQL
+UI/UX           ████████████████████░░  Figma · Prototyping · Design
+Dev Tools       ███████████████████░░░  Git · GitHub · Vite · NPM
+Deployment      ████████████████░░░░░░  Vercel · WordPress · Azure
