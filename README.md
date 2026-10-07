@@ -10,7 +10,7 @@
 
 ### Full Stack Developer · Front-end · UI/UX
 
-Building **scalable, responsive and user-focused web applications** from interface to backend.
+Building modern web applications, from intuitive interfaces to backend solutions.
 
 <br>
 
@@ -36,79 +36,75 @@ Building **scalable, responsive and user-focused web applications** from interfa
 
 ## 👋 About me
 
-I'm a **Full Stack Developer** focused on building modern web applications, combining **front-end development, backend logic, APIs, databases and user experience**.
+I'm a **Full Stack Developer** with a strong background in Front-end development and UI/UX Design, focused on building modern, responsive and user-centered web applications.
 
-My background started in Front-end and UI/UX, which gave me a strong foundation in interface architecture, responsive design and usability. Over time, I expanded my development skills into **backend development, API integration, databases and server-side technologies**.
+My experience combines **interface development, component architecture, responsive design, API integration, backend logic, databases and website deployment**.
 
-I enjoy working across the complete development cycle — from **planning and interface design to implementation, API integration, database operations, testing and deployment**.
+I enjoy working across different stages of the development process — from understanding the user and designing the interface to building the application, integrating APIs, working with data and delivering the final product.
 
-I'm currently deepening my knowledge of **React, Next.js, TypeScript, Node.js, C#, SQL and modern software architecture**.
-
----
-
-## 🚀 What I work with
-
-### Front-end
-
-- React
-- Next.js
-- Vue.js
-- Angular
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Sass
-- Bootstrap
-- Tailwind CSS
-- Styled Components
-
-### Back-end
-
-- Node.js
-- C#
-- PHP
-- REST APIs
-- API Routes
-- Authentication flows
-- Server-side logic
-
-### Databases
-
-- SQL
-- MySQL
-- Relational database concepts
-- Data manipulation and queries
-
-### UI/UX
-
-- Figma
-- Wireframing
-- Prototyping
-- Design Systems
-- Responsive Design
-- User-centered interfaces
-
-### Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Vite
-- NPM
-- Vercel
-- WordPress
-- Azure
-- Excel
+I'm continuously improving my skills in **React, Next.js, TypeScript, Node.js, C#, SQL and modern web architecture**.
 
 ---
 
-## 🧠 Development Skills
+## 🧩 What I do
+
+- ⚡ Full Stack Web Development
+- 🎨 UI/UX Design & Prototyping
+- 📱 Responsive & Mobile-first Development
+- 🧱 Component-based Architecture
+- 🔌 REST API Integration
+- ⚙️ Backend Development
+- 🗄️ SQL & Database Operations
+- 🌐 WordPress & Custom Web Development
+- 🚀 Deployment & Website Maintenance
+- 🔧 Code Organization & Refactoring
+- 🔀 Git & GitHub Workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,angular,nodejs,cs,php,mysql" />
+</p>
+
+### 🎨 UI/UX & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,sass,tailwind,bootstrap,styledcomponents" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,vercel,azure,wordpress" />
+</p>
+
+---
+
+## 🔄 How I approach development
+
+I like to look at a project as a complete product rather than only a collection of screens.
 
 ```text
-Frontend        ████████████████████░░  React · Next.js · Vue · Angular
-Backend         ████████████████░░░░░░  Node.js · C# · PHP · REST APIs
-Databases       ███████████████░░░░░░░  SQL · MySQL
-UI/UX           ████████████████████░░  Figma · Prototyping · Design
-Dev Tools       ███████████████████░░░  Git · GitHub · Vite · NPM
-Deployment      ████████████████░░░░░░  Vercel · WordPress · Azure
+             💡 IDEA
+                │
+                ▼
+        🎨 UI / UX DESIGN
+                │
+                ▼
+        💻 FRONT-END
+                │
+                ▼
+         🔌 API / BACK-END
+                │
+                ▼
+          🗄️ DATABASE
+                │
+                ▼
+          🚀 DEPLOYMENT
+                │
+                ▼
+          📈 IMPROVEMENT
