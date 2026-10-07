@@ -10,7 +10,7 @@
 
 ### Desenvolvedora Full Stack · Front-end · UI/UX
 
-Construindo **aplicações web escaláveis, responsivas e centradas no usuário**, do desenvolvimento da interface ao backend.
+Construindo aplicações web modernas, desde interfaces intuitivas até soluções de backend.
 
 <br>
 
@@ -36,79 +36,75 @@ Construindo **aplicações web escaláveis, responsivas e centradas no usuário*
 
 ## 👋 Sobre mim
 
-Sou **Desenvolvedora Full Stack**, com foco no desenvolvimento de aplicações web modernas, combinando **desenvolvimento Front-end, lógica de backend, APIs, bancos de dados e experiência do usuário**.
+Sou **Desenvolvedora Full Stack**, com uma forte base em desenvolvimento Front-end e UI/UX Design, focada na criação de aplicações web modernas, responsivas e centradas no usuário.
 
-Minha trajetória começou no Front-end e UI/UX, o que me proporcionou uma base sólida em arquitetura de interfaces, desenvolvimento responsivo e usabilidade. Ao longo do tempo, ampliei minhas habilidades para **desenvolvimento backend, integração de APIs, bancos de dados e tecnologias server-side**.
+Minha experiência combina **desenvolvimento de interfaces, arquitetura de componentes, design responsivo, integração com APIs, lógica de backend, bancos de dados e publicação de websites**.
 
-Gosto de trabalhar em diferentes etapas do ciclo de desenvolvimento — desde o **planejamento e design da interface até implementação, integração com APIs, operações em banco de dados, testes e deploy**.
+Gosto de atuar em diferentes etapas do desenvolvimento — desde entender o usuário e projetar a interface até construir a aplicação, integrar APIs, trabalhar com dados e entregar o produto final.
 
-Atualmente, estou aprofundando meus conhecimentos em **React, Next.js, TypeScript, Node.js, C#, SQL e arquitetura moderna de software**.
-
----
-
-## 🚀 Tecnologias com as quais trabalho
-
-### Front-end
-
-- React
-- Next.js
-- Vue.js
-- Angular
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Sass
-- Bootstrap
-- Tailwind CSS
-- Styled Components
-
-### Back-end
-
-- Node.js
-- C#
-- PHP
-- APIs REST
-- API Routes
-- Fluxos de autenticação
-- Lógica server-side
-
-### Bancos de dados
-
-- SQL
-- MySQL
-- Conceitos de bancos relacionais
-- Manipulação e consultas de dados
-
-### UI/UX
-
-- Figma
-- Wireframes
-- Prototipação
-- Design Systems
-- Design Responsivo
-- Interfaces centradas no usuário
-
-### Ferramentas & Plataformas
-
-- Git
-- GitHub
-- VS Code
-- Vite
-- NPM
-- Vercel
-- WordPress
-- Azure
-- Excel
+Estou continuamente aprimorando meus conhecimentos em **React, Next.js, TypeScript, Node.js, C#, SQL e arquitetura moderna para aplicações web**.
 
 ---
 
-## 🧠 Habilidades de Desenvolvimento
+## 🧩 O que eu faço
+
+- ⚡ Desenvolvimento Web Full Stack
+- 🎨 UI/UX Design & Prototipação
+- 📱 Desenvolvimento Responsivo & Mobile-first
+- 🧱 Arquitetura baseada em componentes
+- 🔌 Integração com APIs REST
+- ⚙️ Desenvolvimento Backend
+- 🗄️ SQL & operações com banco de dados
+- 🌐 WordPress & Desenvolvimento Web Customizado
+- 🚀 Deploy & manutenção de websites
+- 🔧 Organização & refatoração de código
+- 🔀 Git & GitHub
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,angular,nodejs,cs,php,mysql" />
+</p>
+
+### 🎨 UI/UX & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,sass,tailwind,bootstrap,styledcomponents" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,vercel,azure,wordpress" />
+</p>
+
+---
+
+## 🔄 Como eu desenvolvo
+
+Gosto de enxergar um projeto como um produto completo, e não apenas como um conjunto de telas.
 
 ```text
-Front-end       ████████████████████░░  React · Next.js · Vue · Angular
-Back-end        ████████████████░░░░░░  Node.js · C# · PHP · REST APIs
-Bancos de dados ███████████████░░░░░░░  SQL · MySQL
-UI/UX           ████████████████████░░  Figma · Prototipação · Design
-Dev Tools       ███████████████████░░░  Git · GitHub · Vite · NPM
-Deploy          ████████████████░░░░░░  Vercel · WordPress · Azure
+             💡 IDEIA
+                │
+                ▼
+        🎨 UI / UX DESIGN
+                │
+                ▼
+          💻 FRONT-END
+                │
+                ▼
+        🔌 API / BACK-END
+                │
+                ▼
+          🗄️ BANCO DE DADOS
+                │
+                ▼
+           🚀 DEPLOY
+                │
+                ▼
+          📈 MELHORIAS
